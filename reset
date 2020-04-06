@@ -1,0 +1,4 @@
+gitlen的reset to commit 选中hard
+git reset --hard commit
+在github客户端提交,反而被升级了版本
+只能靠手动删除,然后覆盖解决吗
