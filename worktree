@@ -1,0 +1,3 @@
+git worktree add <path> [<branch>]
+
+git worktree add ../test
