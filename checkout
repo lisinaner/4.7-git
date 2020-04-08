@@ -1,2 +1,5 @@
 git checkout 分支
 切换到分支
+
+git checkout -b 分支
+创建和切换一起
