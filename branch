@@ -1,2 +1,5 @@
 git branch 分支
 新建分支
+
+git branch -d 分支
+删除分支
