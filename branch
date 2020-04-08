@@ -3,3 +3,6 @@ git branch 分支
 
 git branch -d 分支
 删除分支
+
+git branch -v
+每个分支的最后提交
